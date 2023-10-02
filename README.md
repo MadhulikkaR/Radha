@@ -1,2 +1,2 @@
 # Radha
-This is my first Github Repositiry
+This is my first Github Repository.
